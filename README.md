@@ -11,4 +11,4 @@ Following codebasics from youtube (https://youtu.be/CCNd2fUfFkk) Project with sa
 
 **Dashboard Top Customers, Products, etc. Preview**
 
-![alt text](https://github.com/ZulfikriMirza/Sales-Insight-with-Tableu/blob/main/Dashboard%20Top%20Customers%2CProduct%20Preview.PNG)?raw=true)
+![alt text](https://github.com/ZulfikriMirza/Sales-Insight-with-Tableu/blob/main/Dashboard%20Top%20Customers%2CProduct%20Preview.PNG?raw=true)
